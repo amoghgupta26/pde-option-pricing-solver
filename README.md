@@ -43,7 +43,7 @@ jupyter notebook pde_option_pricing_solver.ipynb
 ## Course context
 
 This was Week 10 of the Computational Finance module, covering 
-Chapters 5 and 6 of the lecture notes — numerical methods for 
+Chapters 5 and 6 of the lecture notes - numerical methods for 
 PDEs and sensitivity analysis.
 
 **Program**: M.Sc. Quantitative Finance  
